@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FreeJoy Controller Lite.PrjPcb]
+   Generated File[FreeJoy Controller Lite-Plated.TXT]
+   Generated File[FreeJoy Controller Lite-NonPlated.TXT]
+   Generated File[FreeJoy Controller Lite.LDP]
+   Generated File[FreeJoy Controller Lite.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:51:25 On 19.08.2020
