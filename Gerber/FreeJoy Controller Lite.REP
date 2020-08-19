@@ -2,42 +2,49 @@
 FileName = FreeJoy Controller Lite.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : FreeJoy Controller Lite.GTL
+Generating : Bottom Overlay
+      File : FreeJoy Controller Lite.GBO
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Overlay
 
     Adding Layer      : Board
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D45
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : FreeJoy Controller Lite.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
-    D12
+    D11
+    D25
     D26
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D57
 *************************************************************
 
 *************************************************************
@@ -106,7 +113,7 @@ Generating : Bottom Layer
 
 Used DCodes :
     D10
-    D26
+    D25
     D44
     D45
     D47
@@ -122,48 +129,41 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : FreeJoy Controller Lite.GBO
+Generating : Top Layer
+      File : FreeJoy Controller Lite.GTL
 
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D45
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : FreeJoy Controller Lite.GBS
-
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Layer
 
     Adding Layer      : Board
-
-    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
-    D11
+    D12
     D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D57
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
 *************************************************************
 
