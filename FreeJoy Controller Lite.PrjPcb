@@ -89,55 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LDYBPFTT
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.REP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.RUL
+DocumentPath=Project Outputs for FreeJoy Controller Lite\Design Rule Check - FreeJoy Controller Lite.html
 DItemRevisionGUID=
 
 [Configuration1]
