@@ -12,7 +12,8 @@ FreeJoy Controller Lite is a replacement for BluePill board designed specially f
 * Convenient JST PH-2.0 connectors for external periphery
 * Analog supply filtering
 * Embedded pull-up resistors for I2C data lines and TLE501x data line (pull-up can be disabled by cutting a bridge)
-* 30 I/O pins
+* 22 I/O pins
+* 8 connectors for analog axes, digital sensors, shift registers
 * Additional VCC (3.3V) and GND pins
 * 2 LEDs (power indicator and user-defined)
 * Reset button
