@@ -23,8 +23,8 @@ D39   RECTANGULAR        23.622      39.370       0.000 FLASH      90.000
 D40   RECTANGULAR        27.559      39.370       0.000 FLASH       0.000
 D41   RECTANGULAR        39.370      55.118       0.000 FLASH     180.000
 D43   RECTANGULAR        51.181      43.307       0.000 FLASH       0.000
-D44   ROUNDED            15.748      15.748       0.000  LINE       0.000
-D45   ROUNDED            11.811      11.811       0.000  LINE       0.000
+D44   ROUNDED            11.811      11.811       0.000  LINE       0.000
+D45   ROUNDED            15.748      15.748       0.000  LINE       0.000
 D46   ROUNDED            19.685      19.685       0.000  LINE       0.000
 D47   ROUNDED            55.118      55.118       0.000 FLASH       0.000
 D49   RECTANGULAR        59.055      59.055       0.000 FLASH      90.000

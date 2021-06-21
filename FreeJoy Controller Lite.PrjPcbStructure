@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc
+Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=Лист
+Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=Лист

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: FreeJoy Controller Lite.PcbDoc   15.10.2020  20:16:12
+NCDrill File Report For: FreeJoy Controller Lite.PcbDoc   21.06.2021  21:33:55
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,16 +8,16 @@ ASCII Non-Plated RoundHoles File : FreeJoy Controller Lite-NonPlated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             77        PTH        0.00mm (0.00inch)
-T2      0.7mm (28mil)                                             Round             53        PTH        0.00mm (0.00inch)
-T3      0.9mm (35mil)                                             Round             26        PTH        0.00mm (0.00inch)
-T4      0.92mm (36mil)                                            Round             4         PTH        0.00mm (0.00inch)
-T5      1mm (39mil)                                               Round             11        PTH        0.00mm (0.00inch)
+T1      0.3mm (12mil)           +0mm (0mil)/-0.1mm (4mil)         Round             1         PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             78        PTH        0.00mm (0.00inch)
+T3      0.65mm (26mil)                                            Round             53        PTH        0.00mm (0.00inch)
+T4      0.8mm (31mil)                                             Round             37        PTH        0.00mm (0.00inch)
+T5      0.92mm (36mil)                                            Round             4         PTH        0.00mm (0.00inch)
 T6      1.2mm (47mil)                                             Round             2         PTH        0.00mm (0.00inch)
 T7      2.3mm (91mil)                                             Round             2         PTH        0.00mm (0.00inch)
 T8      3mm (118mil)                                              Round             1         PTH        0.00mm (0.00inch)
 T9      3mm (118mil)                                              Round             1         NPTH       0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              177
+Totals                                                                              179
 
 Total Processing Time (hh:mm:ss) : 00:00:00
