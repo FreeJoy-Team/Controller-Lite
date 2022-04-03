@@ -90,62 +90,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDYBPFTT
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\Design Rule Check - FreeJoy Controller Lite.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for FreeJoy Controller Lite\FreeJoy Controller Lite.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -300,12 +244,42 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=SEC84251965CB58
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
